@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;    
+}
+
+body {
+    background-color: gray;
+}
+
+.container {
+    width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: white;
+    border-radius: 8px;
+    margin-top: 20px;
+}
+
+.button-wrapper {
+    text-align: center;
+    margin-top: 10px;
+}
+
+.button-wrapper button {
+    padding: 10px;
+
+}
+
+.rincian-wrapper {
+    margin-top: 20px;
+    text-align: center;
+}
+
+table tr:first td {
+    font-weight: bold;    
+}
